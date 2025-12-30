@@ -4,7 +4,7 @@ import time
 urls = [
     "http://52.214.255.185/",
     "http://rte.ie",
-    "http://amazon.com"
+    "http://amazon.ie"
 ]
 
 max_retries = 3
