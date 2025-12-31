@@ -1,1 +1,1 @@
-# Check if website is up/down
+# Check if websites are up/down
