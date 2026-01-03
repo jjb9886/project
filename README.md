@@ -1,7 +1,7 @@
-# Check if websites are up/down
+# List EC2 instances
+
+# List Lightsail instances
 
 # List S3 Buckets
 
-# Lost EC2 instances
-
-# List Lightsail instances
+# Check if websites are up/down
